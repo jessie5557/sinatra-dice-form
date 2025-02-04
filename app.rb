@@ -16,3 +16,4 @@ get ("/process_roll") do
 
   erb(:results)
 end
+
